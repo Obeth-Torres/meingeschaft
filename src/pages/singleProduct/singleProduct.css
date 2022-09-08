@@ -1,0 +1,32 @@
+.singleProductPage {
+    background: linear-gradient(45deg,#fbf9f9 60%, #b6b6b9 );
+}
+.singleProduct {
+    display: flex;
+    padding: 50px;    
+    text-align: center;
+    margin: 0% auto;
+
+}
+.singleProduct h2 {
+    margin-top: 0px;
+    color: var(--dark-color
+    );
+}
+.singleProduct img {
+    max-width: 400px;
+    margin-top: 30px;
+    translate: -40px;
+}
+.productPrice {
+    font-size: 1.5rem;
+    color: var(--dark-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+}
+.description {
+    width: 600px;
+    margin: 20px auto;
+}

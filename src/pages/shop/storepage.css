@@ -1,0 +1,70 @@
+.storepage {
+    text-align: center;    
+    color: var(--second-color);
+    background-color: var(--dark-color);
+    padding-top: 20px;
+}
+.storepage h2 {
+    margin: 0;
+}
+.storeBox { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.product {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border: 2px solid var(--dark-color);
+    border-radius: 10px;
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    background: linear-gradient(45deg,#fbf9f9 60%, #b6b6b9 );
+    color: var(--dark-color);
+}
+.product img{
+    max-width: 150px;
+    max-height: 150px;
+    padding: 20px;
+}
+.product a {
+    text-decoration: none;
+    color: var(--main-color);
+}
+.product h3 {
+    margin: 0%;
+}
+.productPriceAndButton {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.btnRemove {
+    background-color: var(--danger-color);
+    border: none;
+    padding: 10px;
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    color: var(--dark-color);
+}
+.btnRemove:hover {
+    border-right: 3px solid var(--dark-color);
+    border-bottom: 3px solid var(--dark-color);
+}
+.btnAdd {
+    background-color: var(--second-color);
+    border: none;
+    padding: 10px;
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+}
+.btnAdd:hover {
+    border-right: 3px solid var(--main-color);
+    border-bottom: 3px solid var(--main-color);
+}

@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    background-color: var(--second-color);
+    align-items: center;
+    justify-content: space-between;
+    color: var(--dark-color);
+}
+.navbarTitle {
+    display: flex;
+    align-items: center;
+    
+}
+.navbar a {
+    text-decoration: none;
+    color: var(--dark-color);
+}
+.navbar svg {
+    padding: 0 20px;
+    color: var(--dark-color);
+}
+.cartIcon {
+    display: flex;
+    margin-right: 20px;
+}
+.cartIconCircle {
+    color: var(--dark-color);
+    font-size: 1.3rem;
+    font-weight: 600;
+}

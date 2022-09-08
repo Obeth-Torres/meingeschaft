@@ -1,39 +1,72 @@
-.App {
-  text-align: center;
+
+:root {
+  --main-color: #008F8C;
+  --second-color: #0FC2C0;
+  --light-color: hsla(179, 85%, 95%, 1);
+  --dark-color: #023535;
+  --danger-color: hsla(343, 93%, 65%, 1);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-float infinite 3s ease-in-out;
-  }
-}
+/* Color Theme Swatches in Hex */
+.Young-Land-1-hex { color: #732D3F; }
+.Young-Land-2-hex { color: #5A6473; }
+.Young-Land-3-hex { color: #2F3840; }
+.Young-Land-4-hex { color: #AEB7BF; }
+.Young-Land-5-hex { color: #D2D6D9; }
 
-.App-header {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-}
+/* Color Theme Swatches in RGBA
+.Young-Land-1-rgba { color: rgba(114, 44, 63, 1); }
+.Young-Land-2-rgba { color: rgba(89, 100, 114, 1); }
+.Young-Land-3-rgba { color: rgba(47, 56, 63, 1); }
+.Young-Land-4-rgba { color: rgba(174, 183, 191, 1); }
+.Young-Land-5-rgba { color: rgba(210, 214, 216, 1); }
 
-.App-link {
-  color: rgb(112, 76, 182);
-}
+/* Color Theme Swatches in HSLA 
+.Young-Land-1-hsla { color: hsla(343, 43, 31, 1); }
+.Young-Land-2-hsla { color: hsla(213, 12, 40, 1); }
+.Young-Land-3-hsla { color: hsla(208, 14, 21, 1); }
+.Young-Land-4-hsla { color: hsla(208, 11, 71, 1); }
+.Young-Land-5-hsla { color: hsla(202, 7, 83, 1); } */
 
-@keyframes App-logo-float {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(10px);
-  }
-  100% {
-    transform: translateY(0px);
-  }
-}
+/* Color Theme Swatches in Hex */
+.Teals-1-hex { color: #0FC2C0; }
+.Teals-2-hex { color: #0CABA8; }
+.Teals-3-hex { color: #008F8C; }
+.Teals-4-hex { color: #015958; }
+.Teals-5-hex { color: #023535; }
+
+/* Color Theme Swatches in RGBA 
+.Teals-1-rgba { color: rgba(15, 194, 192, 1); }
+.Teals-2-rgba { color: rgba(12, 171, 168, 1); }
+.Teals-3-rgba { color: rgba(0, 143, 140, 1); }
+.Teals-4-rgba { color: rgba(1, 89, 88, 1); }
+.Teals-5-rgba { color: rgba(2, 53, 53, 1); }
+
+/* Color Theme Swatches in HSLA 
+.Teals-1-hsla { color: hsla(179, 85, 40, 1); }
+.Teals-2-hsla { color: hsla(178, 86, 35, 1); }
+.Teals-3-hsla { color: hsla(178, 100, 28, 1); }
+.Teals-4-hsla { color: hsla(179, 97, 17, 1); }
+.Teals-5-hsla { color: hsla(180, 92, 10, 1); }*/
+
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #9DB6EB; }
+.My-Color-Theme-2-hex { color: #7284AB; }
+.My-Color-Theme-3-hex { color: #404A5F; }
+.My-Color-Theme-4-hex { color: #48536B; }
+.My-Color-Theme-5-hex { color: #2E3545; }
+
+/* Color Theme Swatches in RGBA 
+.My-Color-Theme-1-rgba { color: rgba(157, 182, 235, 1); }
+.My-Color-Theme-2-rgba { color: rgba(114, 132, 171, 1); }
+.My-Color-Theme-3-rgba { color: rgba(64, 74, 95, 1); }
+.My-Color-Theme-4-rgba { color: rgba(72, 83, 107, 1); }
+.My-Color-Theme-5-rgba { color: rgba(46, 53, 69, 1); }
+
+/* Color Theme Swatches in HSLA 
+.My-Color-Theme-1-hsla { color: hsla(220, 66, 76, 1); }
+.My-Color-Theme-2-hsla { color: hsla(221, 25, 55, 1); }
+.My-Color-Theme-3-hsla { color: hsla(220, 19, 31, 1); }
+.My-Color-Theme-4-hsla { color: hsla(221, 19, 35, 1); }
+.My-Color-Theme-5-hsla { color: hsla(221, 20, 22, 1); }*/

@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Libreta",
+        "price": 10.99,
+        "image": "/images/notebook.png",
+        "description": "fake description ",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Reloj de pared",
+        "price": 10.99,
+        "image": "/images/watch.png",
+        "description": "fake description ",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Pendrive ",
+        "price": 10.99,
+        "image": "/images/pendrive.png",
+        "description": "fake description ",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "lapiz y lapicero",
+        "price": 10.99,
+        "image": "/images/pencil.png",
+        "description": "fake description ",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "bolsa",
+        "price": 10.99,
+        "image": "/images/bag.png",
+        "description": "fake description ",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "La taza del evento",
+        "price": 10.99,
+        "image": "/images/cup.png",
+        "description": "fake description ",    
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "name": "goma y sacapuntas",
+        "price": 10.99,
+        "image": "/images/eraser.png",
+        "description": "fake description ",
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "name": "papers",
+        "price": 10.99,
+        "image": "/images/paper.png",
+        "description": "fake description ",
+        "quantity": 1
+    },
+    {
+        "id": 9,
+        "name": "porta identificación",
+        "price": 10.99,
+        "image": "/images/target.png",
+        "description": "fake description ",
+        "quantity": 1
+    }
+
+]
